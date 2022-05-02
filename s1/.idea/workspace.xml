@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d1a69fa-4ab5-4465-908b-1ad37981e0e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Constantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperadoresAritmeticos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperadoresAsignacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperadoresIncremento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Segundos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestComprobacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestToken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variables" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../s1/prueba.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/If2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/If3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/If4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/s2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/s2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,19 +44,33 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../s1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.OperadoresIncremento">
-    <configuration name="Constantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Constantes" />
+  <component name="RunManager" selected="Application.If4">
+    <configuration name="If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If" />
       <module name="s2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadoresAsignacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperadoresAsignacion" />
+    <configuration name="If2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If2" />
+      <module name="s2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="If3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If3" />
+      <module name="s2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="If4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If4" />
       <module name="s2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,27 +83,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Segundos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Segundos" />
-      <module name="s2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables" />
-      <module name="s2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.If4" />
+        <item itemvalue="Application.If3" />
+        <item itemvalue="Application.If2" />
+        <item itemvalue="Application.If" />
         <item itemvalue="Application.OperadoresIncremento" />
-        <item itemvalue="Application.OperadoresAsignacion" />
-        <item itemvalue="Application.Segundos" />
-        <item itemvalue="Application.Constantes" />
-        <item itemvalue="Application.Variables" />
       </list>
     </recent_temporary>
   </component>

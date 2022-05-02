@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d1a69fa-4ab5-4465-908b-1ad37981e0e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/If.java" afterDir="false" />
-    </list>
+    <list default="true" id="3d1a69fa-4ab5-4465-908b-1ad37981e0e1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,19 +37,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../s1" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.If">
+  <component name="RunManager" selected="Application.OperadoresIncremento">
     <configuration name="Constantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Constantes" />
-      <module name="s2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="If" />
       <module name="s2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,13 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables" />
+      <module name="s2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.If" />
         <item itemvalue="Application.OperadoresIncremento" />
         <item itemvalue="Application.OperadoresAsignacion" />
         <item itemvalue="Application.Segundos" />
         <item itemvalue="Application.Constantes" />
+        <item itemvalue="Application.Variables" />
       </list>
     </recent_temporary>
   </component>
