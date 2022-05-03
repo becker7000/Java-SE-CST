@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6616ef3d-9198-43fb-9a7e-99f90c6d53cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arreglos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arreglos2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DadoTexto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhile2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/If5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/If6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MonedaTexto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumaGauss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TablasDeVerdad" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/While1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileAnidado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../s1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../s1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/src.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Figuras/Figuras.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Figuras/src/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Figuras/src/TestCirculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/s2/Arreglos2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/s2/Arreglos2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +41,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Figuras/src" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Arreglos2">
+  <component name="RunManager" selected="Application.TestCirculo">
     <configuration name="Arreglos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arreglos" />
       <module name="s2" />
@@ -65,34 +62,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoWhile" />
+    <configuration name="Lista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lista" />
       <module name="s2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhile2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoWhile2" />
+    <configuration name="Lista2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lista2" />
       <module name="s2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="For" />
-      <module name="s2" />
+    <configuration name="TestCirculo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestCirculo" />
+      <module name="Figuras" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCirculo" />
+        <item itemvalue="Application.Lista2" />
+        <item itemvalue="Application.Lista" />
         <item itemvalue="Application.Arreglos2" />
         <item itemvalue="Application.Arreglos" />
-        <item itemvalue="Application.For" />
-        <item itemvalue="Application.DoWhile2" />
-        <item itemvalue="Application.DoWhile" />
       </list>
     </recent_temporary>
   </component>
