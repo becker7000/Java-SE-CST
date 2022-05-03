@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6616ef3d-9198-43fb-9a7e-99f90c6d53cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arreglos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arreglos2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DadoTexto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoWhile2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/If5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/If6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MonedaTexto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumaGauss.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Switch1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TablasDeVerdad" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/While1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WhileAnidado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../s1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../s1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -28,7 +16,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -50,37 +37,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Arreglos2">
-    <configuration name="Arreglos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arreglos" />
+  <component name="RunManager" selected="Application.Switch1">
+    <configuration name="If5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="If5" />
       <module name="s2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arreglos2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arreglos2" />
-      <module name="s2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoWhile" />
-      <module name="s2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoWhile2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoWhile2" />
-      <module name="s2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="For" />
+    <configuration name="Switch1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Switch1" />
       <module name="s2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +54,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Arreglos2" />
-        <item itemvalue="Application.Arreglos" />
-        <item itemvalue="Application.For" />
-        <item itemvalue="Application.DoWhile2" />
-        <item itemvalue="Application.DoWhile" />
+        <item itemvalue="Application.Switch1" />
+        <item itemvalue="Application.If5" />
       </list>
     </recent_temporary>
   </component>
