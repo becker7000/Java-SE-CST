@@ -19,7 +19,7 @@ public class TestPrecio {
         IPrecio ip5=l2;
         IPrecio ip6=l3;
 
-        //Lista de precios
+        //Lista de prec ios
         ArrayList<IPrecio> precios = new ArrayList<>();
 
         precios.add(ip1);
