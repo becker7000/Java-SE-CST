@@ -6,13 +6,14 @@ public abstract class User {
     * hijas.
     * */
 
-    public static int id;
+    public static int id=0;
     private String name;
     private String email;
 
     public User(String name, String email) {
         this.name = name;
         this.email = email;
+        id++;
     }
 
     public static int getId() {
@@ -52,6 +53,11 @@ public abstract class User {
     //ya que se van a definir en las clases hijas.
 
     public abstract void showDataUser();
+
+
+    public static void cuantosUsuarios(){
+        System.out.println("\n\t Hay "+id+" usuarios registrados.");
+    }
 
 }
 

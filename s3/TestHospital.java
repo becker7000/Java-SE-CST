@@ -27,6 +27,8 @@ public class TestHospital {
         p3.showDataUser();
         System.out.println();
 
+        User.cuantosUsuarios();
+
     }
 
 }
