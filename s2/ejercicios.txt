@@ -1,0 +1,21 @@
+Ejercicios de la sesión 2:
+
+Hacer un programa en Java que pida la edad de una persona
+y diga si puede votar por primera vez, puede volver a votar
+o aún no puede votar. Tomar como referencia 18 años como la 
+mayoría de edad. 
+
+Hacer un programa en Java que simule el comportamiento de 
+un dado, usar Math.random(), switch y enum.
+
+Hacer un programa en Java que usando el bucle while, sume 
+los valores enteros: 1+2+3+4+...+100.
+
+Hacer un programa en Java que usando el bucle do-while
+filtre un número entre (0,4]U[8,10). Tip usar && y ||.
+Sí aceptaría: 1,2,3,4,8,9.
+
+Hacer un programa en Java que pida los valores de un
+arreglo de tamaño 5, luego pida un número y diga si ese
+número está o no en el arreglo. Ejemplo: 12,34,2,9,8 -> x=34
+-> 34 sí está en el arreglo.

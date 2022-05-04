@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6616ef3d-9198-43fb-9a7e-99f90c6d53cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/src.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figuras/Figuras.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figuras/src/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Figuras/src/TestCirculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/s2/Arreglos2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/s2/Arreglos2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Figuras/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Otros" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
