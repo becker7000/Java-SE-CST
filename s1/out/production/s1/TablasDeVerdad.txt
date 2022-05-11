@@ -1,0 +1,39 @@
+
+ Operador not(!)
+ Es un operador unario y es prefijo.
+
+ Tabla de verdad:
+  x -> !x
+  V -> F
+  F -> V
+
+ Operador and (&&)
+ Es un operador binario y es infijo.
+ Da verdadero si y sólo si ambas son verdaderas.
+
+ Tabla de verdad:
+ x | y -> x && y
+ V   V ->   V
+ V   F ->   F
+ F   V ->   F
+ F   F ->   F
+
+ Operador or (||)
+ Es un operador binario y es infijo.
+
+ Tabla de verdad:
+  x   y -> x || y
+  V   V ->   V
+  V   F ->   V
+  F   V ->   V
+  F   F ->   F
+
+  Operador or exclusivo (^)
+  Es un operador binario y es infijo.
+
+  Tabla de verdad:
+   x | y -> x ^ y
+   V   V ->   F
+   V   F ->   V
+   F   V ->   V
+   F   F ->   F
