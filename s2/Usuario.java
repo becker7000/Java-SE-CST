@@ -5,6 +5,7 @@
 
 public abstract class Usuario {
 
+    //Protected me permite que los atributos sean reconocidos por las clase hijas.
     protected String nombre;
     protected String email;
 
