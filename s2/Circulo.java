@@ -43,5 +43,11 @@ public class Circulo {
         System.out.printf("\n\t El circulo de color %s tiene un perimetro: %.2f",color,perimetro);
     }
 
-
+    @Override
+    public String toString() {
+        return "Circulo{" +
+                "color='" + color + '\'' +
+                ", radio=" + radio +
+                '}';
+    }
 }

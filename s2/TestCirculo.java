@@ -16,6 +16,9 @@ public class TestCirculo {
         circulo2.calcularPerimetro();
         circulo3.calcularArea();
 
+        //Mandamos a la consola a imprimir un circulo.
+        System.out.println("\n\t"+circulo1);
+
     }
 
 }
