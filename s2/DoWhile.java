@@ -9,6 +9,7 @@ public class DoWhile {
         //Esta estructura ejecuta su bloque de código mínimo una vez.
         Scanner scanner = new Scanner(System.in);
         int entero;
+
         do { //Filtro de un número para que sea positivo.
             System.out.printf("\n\t Dame un número entero positivo: ");
             entero=scanner.nextInt(); scanner.nextLine();
