@@ -32,9 +32,23 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.TestReciboCFE">
+  <component name="RunManager" selected="Application.TestException2">
     <configuration name="Cafebreria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Cafebreria" />
+      <module name="s3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestException" />
+      <module name="s3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestException2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestException2" />
       <module name="s3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -49,6 +63,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestException2" />
+        <item itemvalue="Application.TestException" />
         <item itemvalue="Application.TestReciboCFE" />
         <item itemvalue="Application.Cafebreria" />
       </list>
