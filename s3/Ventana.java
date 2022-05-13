@@ -153,15 +153,28 @@ public class Ventana extends JFrame {
             public void actionPerformed(ActionEvent e) {
                 //Así guardamos como double el texto escrito en el input de textField.
                 consumo=Double.parseDouble(textField.getText());
+                //Creamos un objeto reporteCFE de clase ReciboCFE
                 ReciboCFE reporteCFE = new ReciboCFE(consumo);
+                //Ajustamos el texto de JTextArea report
+                //usando el método generarReporte().
                 reporte.setText(reporteCFE.generarReporte());
             }
-        };
+        }; //Nota: cuando definimos la sobreescritura de un método usamos ;
 
+        //Le agrega el eveto click a el botón.
         boton.addActionListener(click);
-
-
 
     }
 
 }
+
+
+/*
+*
+*   Ejercicio final: hacer una clase ReporteIMC.
+*
+*   Pedir dos datos con JTextField (peso, altura)
+*
+*   y acontinuación imprimir un reporte de su indice de masa corporal del usuario.
+*
+* */
