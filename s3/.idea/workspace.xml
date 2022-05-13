@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.TestFileReader">
+  <component name="RunManager" selected="Application.TestVentana">
     <configuration name="AnalizandoDirectorio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AnalizandoDirectorio" />
       <module name="s3" />
@@ -42,13 +42,6 @@
     </configuration>
     <configuration name="Archivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Archivo" />
-      <module name="s3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestException3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestException3" />
       <module name="s3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,13 +61,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestVentana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestVentana" />
+      <module name="s3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestVentana" />
         <item itemvalue="Application.TestFileReader" />
         <item itemvalue="Application.TestReporteArchivo" />
         <item itemvalue="Application.AnalizandoDirectorio" />
         <item itemvalue="Application.Archivo" />
-        <item itemvalue="Application.TestException3" />
       </list>
     </recent_temporary>
   </component>
