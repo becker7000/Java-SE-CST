@@ -1,8 +1,4 @@
-Este es un
-archivo
-generado
-con un programa
-tiene 5 lineas.
-Ahora tiene mas
-lineas
-en total 8.
+4
+9 8 7
+7 6 9
+8 9 7
