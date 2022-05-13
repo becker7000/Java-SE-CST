@@ -19,7 +19,7 @@ public class ReciboCFE {
     }
 
     //Generamos un reporte con una sola variable.
-    public void generarReporte(){
+    public String generarReporte(){
 
         double tarifa=0;
 
@@ -44,7 +44,8 @@ public class ReciboCFE {
         reporte.append(String.format("\n\t | Monto: $%.2f ",montoAPagar));
         reporte.append("\n\t +-----------------------+");
 
-        System.out.println(reporte);
+        //Con el método toString() transformo a cadena
+        return reporte.toString();
 
     }
 

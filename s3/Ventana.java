@@ -1,5 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class Ventana extends JFrame {
 
@@ -7,7 +9,7 @@ public class Ventana extends JFrame {
     JPanel panel;
     JTextField textField;
     // JLabel son de una sola linea.
-    JTextArea textArea; // Es de muchas lineas
+    JTextArea reporte; // Es de muchas lineas
     Double consumo;
 
     public Ventana(String titulo, int ancho, int altura) {
@@ -111,6 +113,54 @@ public class Ventana extends JFrame {
     }
 
     public void colocarBotones(){
+
+        //Configuración del botón:
+        JButton boton = new JButton("Calcular");
+        boton.setBounds(50,200,200,50);
+
+        //boton.setEnabled(false);
+
+        //Ajustamos el color del texto del boton
+        boton.setForeground(Color.BLUE);
+
+        //Creamos una fuente
+        Font font = new Font("Arial",Font.BOLD,14);
+
+        //Ajustamos el estilo de la fuente del JLabel
+        boton.setFont(font);
+
+        //Agregamos el boton al panel.
+        panel.add(boton);
+
+        //---CREAMOS UN ÁREA DE TEXTO PARA GENERAR UN REPORTE---
+        reporte = new JTextArea();
+        reporte.setBounds(50,270,300,100);
+        reporte.setForeground(Color.DARK_GRAY);
+
+        //Creamos una fuente
+        Font font2 = new Font("Arial",Font.PLAIN,12);
+
+        //Agregamos la fuente a área de texto
+        reporte.setFont(font2);
+
+        //Agregamos el área de texto al panel.
+        panel.add(reporte);
+
+        //LÓGICA DEL BÓTON Y FUNCIONAMIENTO POR MEDIO DE UN EVENTO:
+
+        ActionListener click = new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                //Así guardamos como double el texto escrito en el input de textField.
+                consumo=Double.parseDouble(textField.getText());
+                ReciboCFE reporteCFE = new ReciboCFE(consumo);
+                reporte.setText(reporteCFE.generarReporte());
+            }
+        };
+
+        boton.addActionListener(click);
+
+
 
     }
 
